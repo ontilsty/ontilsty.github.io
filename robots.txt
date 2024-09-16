@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://ontilsty.github.io/sitemap.html.gz
+Sitemap: https://ontilsty.github.io/app/sitemap.html.gz
+Sitemap: https://ontilsty.github.io/assets/sitemap.html.gz
+Sitemap: https://ontilsty.github.io/css/sitemap.html.gz
+Sitemap: https://ontilsty.github.io/includes/sitemap.html.gz
+Sitemap: https://ontilsty.github.io/item/sitemap.html.gz
+Sitemap: https://ontilsty.github.io/src/sitemap.html.gz
